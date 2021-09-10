@@ -1,0 +1,1 @@
+Introductory work with scripts
